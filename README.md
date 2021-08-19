@@ -1,1 +1,1 @@
-# natural-language-processing exercise of nlp (Python for Data Science and Machine Learning Bootcamp)
+# natural-language-processing  of NLP project (Python for Data Science and Machine Learning Bootcamp)
